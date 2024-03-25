@@ -1,0 +1,1 @@
+print("AI & DS python course")
